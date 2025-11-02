@@ -1,0 +1,8 @@
+1. 
+A tree structure is appropriate for the "doctor" program, a classic example of an expert system, because it directly models the process of hierarchical decision-making and diagnostic reasoning
+. In this structure, the program can systematically follow a branching path of questions and answers to arrive at a conclusion, mimicking how a human doctor performs a diagnosis
+
+2.
+For preorder its commonly used to creating cop[ies of a tree. For Inorder its used for outputting data in a sorted sequence. For postorder its used for calculating directory size
+
+3. An emergency room (ER) simulation must handle patients arriving with different levels of urgency. A heap-based priority queue is the ideal way to manage this dynamic, as it efficiently stores and retrieves patient events based on their triage priority.
